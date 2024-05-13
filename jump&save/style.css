@@ -21,7 +21,7 @@ body{
     width: 150px;
     height: 154px;
     position: absolute;
-    bottom:113px;
+    bottom:14vh;
     left: 150px;
     /* align-self: center; */
 }
@@ -31,7 +31,7 @@ body{
     height:  120px;
     width: 190px;
     position: absolute;
-    bottom: 120px;
+    bottom: 14vh;
     right: 330px;
     
 }
